@@ -1,2 +1,2 @@
-l=["sa","pra","cha","azi","esp"]
-print[(l.count("pra"))]
+l=["Sai","Kiran","Rupa","Rajesh","ani","Loki"]
+print(l.count("Rupa"))
